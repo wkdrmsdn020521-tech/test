@@ -30,22 +30,7 @@ jobs:
         shell: bash
         run: |
           URLS=(
-            "https://backend.wplace.live/files/s0/tiles/1741/789.png"  # 하버갤촌
-            "https://backend.wplace.live/files/s0/tiles/1742/789.png"
-            "https://backend.wplace.live/files/s0/tiles/1743/789.png"
-            "https://backend.wplace.live/files/s0/tiles/1741/790.png"
-            "https://backend.wplace.live/files/s0/tiles/1742/790.png"
-            "https://backend.wplace.live/files/s0/tiles/1743/790.png"
-            "https://backend.wplace.live/files/s0/tiles/1741/791.png"
-            "https://backend.wplace.live/files/s0/tiles/1742/791.png"
-            "https://backend.wplace.live/files/s0/tiles/1743/791.png"
-            "https://backend.wplace.live/files/s0/tiles/1741/788.png"
-            "https://backend.wplace.live/files/s0/tiles/1740/788.png"
-            "https://backend.wplace.live/files/s0/tiles/1758/790.png"  # 리스텔라 동해바다 
-            "https://backend.wplace.live/files/s0/tiles/1759/790.png"
-            "https://backend.wplace.live/files/s0/tiles/1758/791.png"
-            "https://backend.wplace.live/files/s0/tiles/1759/791.png"
-            "https://backend.wplace.live/files/s0/tiles/656/1524.png"
+            "https://backend.wplace.live/files/s0/tiles/656/1524.png" #틈새단체 
             "https://backend.wplace.live/files/s0/tiles/656/1525.png"
             "https://backend.wplace.live/files/s0/tiles/657/1525.png"
             "https://backend.wplace.live/files/s0/tiles/657/1524.png"
