@@ -30,10 +30,12 @@ jobs:
         shell: bash
         run: |
           URLS=(
-            "https://backend.wplace.live/files/s0/tiles/656/1524.png"
+            "https://backend.wplace.live/files/s0/tiles/656/1524.png" #틈새단체
             "https://backend.wplace.live/files/s0/tiles/656/1525.png"
             "https://backend.wplace.live/files/s0/tiles/657/1525.png"
             "https://backend.wplace.live/files/s0/tiles/657/1524.png"
+            "https://backend.wplace.live/files/s0/tiles/1740/790.png" #이오몽
+            
           )
 
           DAYTIM="$(TZ=Asia/Seoul date +'%Y%m%d_%H%M%S')"
